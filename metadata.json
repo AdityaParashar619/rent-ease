@@ -1,0 +1,6 @@
+{
+  "name": "RentEase — Multi-Category Rental Platform",
+  "description": "A production-grade Java Full Stack rental web platform for property owners and tenants to discover, verify, book, and manage residential properties, vehicles, commercial spaces, and event venues.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
